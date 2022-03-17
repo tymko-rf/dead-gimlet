@@ -4,4 +4,4 @@ dead repo walking
 
 ## On Zombocom
 
-With Zombocom, anything is possible
+With Zombocom, anything is possible.
